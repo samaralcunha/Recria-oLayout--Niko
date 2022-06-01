@@ -1,0 +1,75 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    max-width: 400pxs;
+}
+
+.logo{
+    font-size: 24px;
+    font-weight: 900;
+    width: 20px;
+    position: relative;
+    top: 10px;
+    left: 23%;
+
+}
+
+.cabecario { 
+    position: relative;
+}
+
+
+.opcoes{   
+    display: inline;
+    font-weight: 300;
+    font-size: 1em;
+    padding: 10px;
+    opacity: 1;
+    position: relative;
+    left: 38.5em;
+    top: 10px;
+}
+
+#home { 
+    color: #0075f6;
+    text-decoration: underline;
+}
+
+#azul{
+    background-color: #74b5fa;
+    max-width: 40%;
+    height: 90%; 
+    z-index: -1;
+    position: relative;
+    left: 50em;
+    bottom: 10em;
+}
+
+img {
+    width: 50%;
+    z-index: 1;
+    position: relative;
+    left: 25em;
+    bottom: 33em;
+}
+
+#hello {
+    color: #0075f6;
+    font-size: small;
+    width: 20px;
+    position: relative;
+    bottom: 66em;
+    left: 20em;
+}
+
+#apresentacao {
+    z-index: 2;
+    font-size: 20px;
+    letter-spacing: -1;
+    width: 100px;
+    position: relative;
+    bottom: 130%;
+    left: 17em;
+}
